@@ -1,4 +1,4 @@
-# Artbreeder images
+# ArtBreeder images
 (2D painterly full character images)
 
 These images were created by Jake Gustafson using artbreeder.com.

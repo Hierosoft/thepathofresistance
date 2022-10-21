@@ -1,4 +1,4 @@
-# deepdreamgenerator images
+# Deep Dream Generator images
 
 The images processed by deepdreamgenerator.com were created by Jake Gustafson using the site, with the following caveats:
 - Hodnuch is based on an original drawing by Jake Gustafson processed by Face-Depixelizer which has (or had) no specific terms of use, so I claim the pre-deepdreamgenerator image as my work.

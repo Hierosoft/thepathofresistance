@@ -1,4 +1,4 @@
-# Gaugan2 images
+# GauGAN 2 images
 
 These images were made by Jake Gustafson using GauGAN 2.
 
