@@ -1,7 +1,7 @@
 # The Path of Resistance
 A tabletop RPG in the [Zah Yest](https://zahyest.com) setting.
 
-![Book cover of The Path of Resistance by Jacob Gustafson](projects/CC_BY_4.0/cover-book_1.jpg)
+[![Book cover of The Path of Resistance by Jacob Gustafson](projects/CC_BY_4.0/cover-book_1.jpg)](https://zahyest.com)
 
 
 This is source material for the free eBook tabletop campaign The Path of Resistance found at [zahyest.com](https://zahyest.com). This is a repo for issues and providing content organized by license.
