@@ -51,7 +51,7 @@ def make_md_index(parent, name="readme.md", extensions=image_extensions):
         noext, ext = os.path.splitext(sub)
         if ext.lower() not in image_dot_exts:
             continue
-        line = "![{}]({})".format(noext, subPath)
+        line = "![{}]({})".format(noext, sub)
         lines.append(line)
         images_count += 1
     old_lines = []
