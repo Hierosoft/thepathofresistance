@@ -18,3 +18,7 @@ This list of directories only exists on the developer machine, and some of it ma
     * The triangle
       - $HOME/Meshes/structures-modern-cartoon_style/Library_Large_003
     * $HOME/Nextcloud/Meshes/structures-natural/semi-procedural-river-material.blend (and $HOME/Nextcloud/Meshes/structures-natural/semi-procedural-river-material.md)
+
+
+## Related projects
+- [tabletopManualMiner](https://github.com/poikilos/tabletopManualMiner): "This set of tools analyzes and attempts to collect rules and statistics as machine-usable metadata from the System Reference Document 5.1 and possibly other 2-column documents."
