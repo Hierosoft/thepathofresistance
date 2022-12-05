@@ -12,3 +12,11 @@ anyone for any purpose, with or without attribution."
 
 For the full artbreeder.com Terms of Use, see [terms.pdf]
 (an updated copy is at <https://www.artbreeder.com/terms.pdf>).
+
+
+## Rework
+The included changelog files describe how each file was reworked, but
+not every file that was reworked has a changelog. To see what rework
+was done (usually the following are necessary by hand: improving the
+outline artifacts, hands, and improving the eyes and/or face) compare
+the image in this directory to the final image used in the book.
