@@ -1,2 +1,2 @@
-https://github.com/Hierosoft/hierosoft/archive/refs/heads/main.zip
-https://github.com/Poikilos/pycodetool/archive/refs/heads/main.zip
+hierosoft-update @ git+https://github.com/Hierosoft/hierosoft@main
+pycodetool @ git+https://github.com/Poikilos/pycodetool@main
